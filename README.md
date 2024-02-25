@@ -8,6 +8,8 @@
 - Streamlit
 - Sci-kit Learn
 
+[Presentation](https://docs.google.com/presentation/d/1OMathHJOkVLbNz823BsYCN2oEQPvYCmmXkVdBDJc9zw/edit?usp=sharing)
+
 ## Inspiration
 Getting into an affordable college that matches your financial needs is getting harder and harder. This creates stress among high-school students who have competitive standardised test scores, but struggling financially. We wanted to make a useful tool that recommends a list of colleges to help students find their fit.
 
